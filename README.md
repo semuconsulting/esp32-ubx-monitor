@@ -1,5 +1,5 @@
 
-# u-blox UBX Receiver receiver example
+# u-blox UBX Receiver example
 
 https://learn.sparkfun.com/tutorials/gnss-receiver-breakout---max-m10s-qwiic-hookup-guide
 
