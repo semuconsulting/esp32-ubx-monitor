@@ -13,7 +13,7 @@ We also turn off the NMEA output on the I2C port. This decreases the amount of I
 1. Download and unzip this repo, or clone it:
 
     ```shell
-    git clone https://github.com/semuconsulting/esp32-m10s-monitor.git
+    git clone https://github.com/semuconsulting/esp32-ubx-monitor.git
     ```
 
 1. Connect your ESP32 device to the NEO-M10S via I2C ports (SDA/SCL), or use the QWIIC connector as per the tutorial above.
@@ -33,7 +33,7 @@ Lat: 51.250643, Lon: -2.610235, Alt: 35.041 m, Fix: 3D, SIV: 11, Hacc: 5.243 m, 
 
 ## License
 
-Author: SparkFun Electronics / Paul Clark, adapted for VSCode / PlatformIO by semuadmin
+Author: SparkFun Electronics / Paul Clark, enhanced and adapted for VSCode / PlatformIO by semuadmin
   
 Date: March 7th, 2022
 

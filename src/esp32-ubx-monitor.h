@@ -1,9 +1,9 @@
-#ifndef _NEO_M10S_H_
-#define _NEO_M10S_H_
+#ifndef _UBX_MON_H_
+#define _UBX_MON_H_
 
 /*
   Reading Position, Velocity and Time (PVT) via UBX binary commands
-  By: Paul Clark (adapted for VSCode / PlatformIO by semuadmin)
+  By: Paul Clark (enhanced and adapted for VSCode / PlatformIO by semuadmin)
   SparkFun Electronics
   Date: December 21st, 2022
   License: MIT. Please see LICENSE.md for more information.
