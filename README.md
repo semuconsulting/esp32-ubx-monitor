@@ -16,7 +16,7 @@ We also turn off the NMEA output on the I2C port. This decreases the amount of I
     git clone https://github.com/semuconsulting/esp32-ubx-monitor.git
     ```
 
-1. Connect your ESP32 device to the NEO-M10S via I2C ports (SDA/SCL), or use the QWIIC connector as per the tutorial above.
+1. Connect your ESP32 device to the u-blox Receiver via I2C ports (SDA/SCL), or use the QWIIC connector as per the tutorial above.
 1. Connect your ESP32 device to your workstation via its USB port.
 1. Open the project folder in VSCode.
 1. Open the PlatformIO Project Tasks tab and select 'Upload and Monitor'. The code should automatically build and upload (on some ESP32 devices you may have to press the RESET button momentarily first).
