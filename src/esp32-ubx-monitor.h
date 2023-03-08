@@ -25,7 +25,7 @@
   Open the serial monitor at 115200 baud to see the output
 */
 
-#include <Wire.h> //Needed for I2C to GNSS
+#include <Wire.h> //Needed for I2C to GNSS - I2C Address: 0x42
 
 #include <SparkFun_u-blox_GNSS_v3.h> //http://librarymanager/All#SparkFun_u-blox_GNSS_v3
 
